@@ -1,0 +1,9 @@
+﻿<Window x:Class="ControlSeguridadBD.ReporteViewer"  
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"  
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+     Title="ReporteViewer" Height="837.511" Width="1048.686" xmlns:my="clr-namespace:SAPBusinessObjects.WPF.Viewer;assembly=SAPBusinessObjects.WPF.Viewer">
+    <Grid Height="368" VerticalAlignment="Top">
+        <my:CrystalReportsViewer Margin="-2,1,-1,-438" Name="crystalReportsViewer" ShowLogo="False" HorizontalAlignment="Center"  
+                  ShowToggleSidePanelButton="True" ShowToolbar="True" ShowOpenFileButton="False" Width="1044" />
+    </Grid>
+</Window> 

@@ -1,0 +1,141 @@
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe.config
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.pdb
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlRoles.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlUsuario.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\MainWindow.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\App.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD_MarkupCompile.cache
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD_MarkupCompile.lref
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlRoles.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlUsuario.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\MainWindow.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.g.resources
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.Properties.Resources.resources
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.exe
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.pdb
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Modificar.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\modificarLogin.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Modificar.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\modificarLogin.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlModifica.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlModifica.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ventanaSA.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ventanaSA.baml
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ServerRoles.g.cs
+d:\documentos\visual studio 2015\Projects\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ServerRoles.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe.config
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.exe
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.pdb
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csprojResolveAssemblyReference.cache
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csproj.ControlSeguridadBD.exe.config
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ReporteViewer.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlModifica.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlRoles.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlUsuario.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Filtros.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\MainWindow.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Modificar.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\modificarLogin.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ReporteViewer.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ServerRoles.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ventanaSA.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\App.g.cs
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD_MarkupCompile.cache
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD_MarkupCompile.lref
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.pdb
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Shared.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.VSDesigner.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Web.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CRVsPackageLib.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\EnvDTE.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\VSLangProj.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\VsWebSite.Interop.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\EnvDTE80.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\FlashControlV71.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\stdole.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ShockwaveFlashObjects.dll
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlModifica.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlRoles.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlUsuario.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Filtros.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\MainWindow.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Modificar.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\modificarLogin.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ServerRoles.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ventanaSA.baml
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.g.resources
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.Properties.Resources.resources
+E:\UTN\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csproj.GenerateResource.Cache
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe.config
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.exe
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.pdb
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csprojResolveAssemblyReference.cache
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csproj.ControlSeguridadBD.exe.config
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ReporteViewer.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlModifica.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlRoles.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlUsuario.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Filtros.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ListaPermisos.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\MainWindow.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Modificar.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\modificarLogin.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ReporteViewer.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ServerRoles.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ventanaSA.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\App.g.cs
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD_MarkupCompile.cache
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD_MarkupCompile.lref
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.pdb
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Shared.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.VSDesigner.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Web.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\CRVsPackageLib.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\EnvDTE.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\VSLangProj.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\VsWebSite.Interop.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\EnvDTE80.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\FlashControlV71.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\stdole.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ShockwaveFlashObjects.dll
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlModifica.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlRoles.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlUsuario.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Filtros.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ListaPermisos.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\MainWindow.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\Modificar.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\modificarLogin.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ServerRoles.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ventanaSA.baml
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.g.resources
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.Properties.Resources.resources
+F:\UTN\I-2017\Progra_III\PROYECTO\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.csproj.GenerateResource.Cache
+C:\Users\Fabri\Google Drive\PROYECTO PROGRA_\ControlSeguridadBD\ControlSeguridadBD\bin\Debug\ControlSeguridadBD.exe.config
+C:\Users\Fabri\Google Drive\PROYECTO PROGRA_\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.exe
+C:\Users\Fabri\Google Drive\PROYECTO PROGRA_\ControlSeguridadBD\ControlSeguridadBD\obj\Debug\ControlSeguridadBD.pdb
